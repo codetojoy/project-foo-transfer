@@ -2,6 +2,8 @@
 
 An experimental project to examine how to share code snippets among team members, using Project Foo as an example.
 
+The idea is to have a repository of shared files, with convenient command-line scripts. One potential advantage of this over gists is that the corpus is searchable (e.g. with the `find` command).
+
 ## To share a file
 
 * one-time only: edit `./share.sh`, replace `WHO_AM_I` with your username
